@@ -189,11 +189,14 @@ export default function HomePage() {
             <span className="text-slate-700">•</span>
             <span>Built with Next.js 16 &amp; TypeScript</span>
           </div>
-          <div className="pt-2 flex flex-col items-center gap-0.5">
-            <p className="text-xs font-medium text-slate-400">Developed by Rohit Buwala</p>
+          <div className="pt-2 flex flex-col items-center gap-1">
+            <p className="text-sm font-medium text-slate-300">
+              Developed by Rohit Buwala
+            </p>
+
             <a
-              href="mailto:your-email@example.com"
-              className="text-xs text-indigo-500 hover:text-indigo-400 transition-colors"
+              href="mailto:rohitbuwala821@gmail.com"
+              className="text-sm text-indigo-400 hover:text-indigo-300 transition-colors"
             >
               rohitbuwala821@gmail.com
             </a>
